@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gawali</h1>
-<h3 align="center">I Am Student Learning A Different Different Skill.</h3>
+<h2 align="center">Welcome to My Profile </h2>
+<h3 align="center">I Am Student Learning, A Different Different Skill. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi01gawali&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi01gawali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi01gawali" alt="vaishnavi01gawali" /></a> </p>
-
-- 🌱 I’m currently learning **C++ Python**
+- 🌱 I’m currently learning **C++ DsA Python**
 
 - 📫 How to reach me **gawalivaishnavi449@gmail.com**
 
