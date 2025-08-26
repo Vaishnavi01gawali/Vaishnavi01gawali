@@ -3,7 +3,7 @@
 <h3 align="center">I Am Student Learning, A Different Different Skill. </h3>
 
 
-- 🌱 I’m currently learning **C++ DsA Python**
+- 🌱 I’m currently learning **C++ DSA Python**
 
 - 📫 How to reach me **gawalivaishnavi449@gmail.com**
 
